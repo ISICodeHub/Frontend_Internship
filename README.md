@@ -31,3 +31,6 @@ Welcome to the Information Solution Of India Frontend Development Internship Pro
   Create individual project cards with project details.
   Ensure consistent styling and layout.
 **Week 2: Implementing the react project**
+
+
+Figma Materials : https://www.figma.com/file/5YdNN11YTbnFqCVGKyhHhF/Figma-Basics-PDF-(Extended-Version)-(Community)?type=design&node-id=0-4&mode=design&t=in0TGi7xPpML6N39-0
