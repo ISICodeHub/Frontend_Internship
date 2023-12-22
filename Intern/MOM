@@ -1,0 +1,12 @@
+Day 1: React setup and basic introduction
+create new react app
+npx create-react-app my-app
+cd my-app
+npm start
+After successful creation of react app:
+
+
+
+
+next.js
+npx create-next-app@latest
